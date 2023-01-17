@@ -9,4 +9,5 @@ gem 'actionpack', '~> 3.2.0'
 gem 'rake'
 gem 'rdoc'
 gem 'mocha', '~> 0.13.0', :require => false
+gem 'test-unit'
 gem 'tzinfo'
